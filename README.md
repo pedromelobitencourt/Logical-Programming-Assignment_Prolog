@@ -5,6 +5,8 @@ Welcome to the logic programming problem set! In this section, you'll find a col
 ## Problem Statements
 
 1) Obtain the number of elements in a list.
+
+
    Example: ?- nelementos([1, 2, 3], S).
             S = 3 .
 
